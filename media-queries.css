@@ -1,0 +1,225 @@
+
+			h1{
+				font-family:'Montserrat';
+				text-align:center;
+				color:#fff;
+			}
+			
+			span{
+				background:#FFF !important;
+			}
+			.fp-slidesNav.fp-bottom{
+				bottom:17px;
+				margin-left:1em !important;
+			}
+
+			@media only screen
+			{
+			
+			.s1{
+				background:url('./PNG/AM_002_D/AM_002_D.png');
+				background-size:cover;
+				background-size: 100% 100%;
+			}
+			.s2{
+				background:url('./PNG/AM_002_D/AM_002_D\(2\).png');
+				background-size:cover;
+				background-size: 100% 100%;
+			}
+			#snd{
+					text-align:left;
+					margin-left:2em;
+					font-size:4rem;
+				}
+			.s3{
+				background:url('./PNG/AM_002_D/AM_002_D\(3\).png');
+				background-size:cover;
+				background-size: 100% 100%;
+			}
+			.s4{
+				background:url('./PNG/AM_002_D/AM_002_D\(4\).png');
+				background-size:cover;
+				background-size: 100% 100%;
+			}
+            .s5{
+                background: url(./bg-imgs/bg-esktop-view.png);
+                background-size:cover;
+            }
+			.s6{
+                background: url(./bg-imgs/map-bg.png);
+                background-size:cover;
+		}
+	}
+			
+			@media only screen and (max-width:500px){
+				.s1{
+				background:url('./PNG/AM_002_P/AM_002_P.png');
+				background-size:cover;
+				background-size: 100% 100%;
+			}
+			.s2{
+				background:url('./PNG/AM_002_P/AM_002_P\(2\).png');
+				background-size:cover;
+				background-size: 100% 100%;
+				
+			}
+			#snd{
+					text-align:left;
+					margin-left:2em;
+					font-size:4rem;
+				}
+			.s3{
+				background:url('./PNG/AM_002_P/AM_002_P\(3\).png');
+				background-size:cover;
+				
+				 background-size: 100% 100%;
+  
+			}
+			.s4{
+				background:url('./PNG/AM_002_P/AM_002_P\(4\).png');
+				background-size:cover;
+				
+				 background-size: 100% 100%;
+  
+			}
+            .s5{
+                background: url(./bg-imgs/bg-esktop-view.png);
+                background-size:cover;
+            }
+			.s6{
+                background: url(./bg-imgs/map-bg.png);
+                background-size:cover;
+			}
+		}
+			
+			@media only screen 
+				and (min-device-width: 768px) 
+				 and (orientation: portrait)
+				and (-webkit-min-device-pixel-ratio: 1) 
+			{
+				.s1{
+				background:url('./PNG/AM_002_TAB_P/AM_002_TAB_P.png');
+				background-size:cover;
+				
+				background-size: 100% 100%;
+			}
+			.s2{
+				background:url('./PNG/AM_002_TAB_P/AM_002_TAB_P\(2\).png');
+				background-size:cover;
+				background-size: 100% 100%;
+				
+			}
+			#snd{
+					text-align:left;
+					margin-left:2em;
+					font-size:4rem;
+				}
+			.s3{
+				background:url('./PNG/AM_002_TAB_P/AM_002_TAB_P\(3\).png');
+				background-size:cover;
+				
+				 background-size: 100% 100%;
+  
+			}
+			.s4{
+				background:url('./PNG/AM_002_TAB_P/AM_002_TAB_P\(4\).png');
+				background-size:cover;
+				
+				 background-size: 100% 100%;
+  
+			}
+            .s5{
+                background: url(./bg-imgs/bg-esktop-view.png);
+                background-size:cover;
+            }
+			.s6{
+                background: url(./bg-imgs/map-bg.png);
+                background-size:cover;
+			}
+		}
+			@media only screen 
+				and (min-device-width: 768px) 
+				 and (orientation:landscape)
+				and (-webkit-min-device-pixel-ratio: 1) 
+			{
+				.s1{
+				background:url('./PNG/AM_002_TAB_L/AM_002_TAB_L.png');
+				background-size:cover;
+				
+				background-size: 100% 100%;
+			}
+			.s2{
+				background:url('./PNG/AM_002_TAB_L/AM_002_TAB_L\(2\).png');
+				background-size:cover;
+				background-size: 100% 100%;
+				
+			}
+			#snd{
+					text-align:left;
+					margin-left:2em;
+					font-size:4rem;
+				}
+			.s3{
+				background:url('./PNG/AM_002_TAB_L/AM_002_TAB_L\(3\).png');
+				background-size:cover;
+				
+				 background-size: 100% 100%;
+  
+			}
+			.s4{
+				background:url('./PNG/AM_002_TAB_L/AM_002_TAB_L\(4\).png');
+				background-size:cover;
+				
+				 background-size: 100% 100%;
+  
+			}
+            .s5{
+                background: url(./bg-imgs/bg-esktop-view.png);
+                background-size:cover;
+            }
+			.s6{
+                background: url(./bg-imgs/map-bg.png);
+                background-size:cover;
+			}}
+
+			@media only screen 
+				and (min-width: 992px)
+			{
+			
+			.s1{
+				background:url('./PNG/AM_002_D/AM_002_D.png');
+				background-size:cover;
+				background-size: 100% 100%;
+			}
+			.s2{
+				background:url('./PNG/AM_002_D/AM_002_D\(2\).png');
+				background-size:cover;
+				background-size: 100% 100%;
+			}
+			#snd{
+					text-align:left;
+					margin-left:2em;
+					font-size:4rem;
+				}
+			.s3{
+				background:url('./PNG/AM_002_D/AM_002_D\(3\).png');
+				background-size:cover;
+				background-size: 100% 100%;
+			}
+			.s4{
+				background:url('./PNG/AM_002_D/AM_002_D\(4\).png');
+				background-size:cover;
+				background-size: 100% 100%;
+			}
+            .s5{
+                background: url(./bg-imgs/bg-esktop-view.png);
+                background-size:cover;
+                
+            }
+			.s6{
+                background: url(./bg-imgs/map-bg.png);
+                background-size:cover;
+				
+               
+            }
+		}
